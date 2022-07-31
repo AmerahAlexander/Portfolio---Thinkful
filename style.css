@@ -5,8 +5,8 @@ html, body {
   color: #231942; 
 }
 
-body > h2 {
-  color: purple;
+body {
+  background-color: #231942;
 }
 
 header {
