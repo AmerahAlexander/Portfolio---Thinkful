@@ -1,12 +1,12 @@
 html, body {
   height: 100%;
   width: 100%;
-  background-color: e0b1cb;
-  color: 231942; 
+  background-color: 224, 177, 203;
+  color: 35, 25, 66; 
 }
 
 body > h2 {
-  color: 5e548e;
+  color: 35, 25, 66;
 }
 
 header {
@@ -17,8 +17,8 @@ footer {
   text-align: center;
 }
 footer, header {
-  color: e0b1cb;
-  background-color: 9f86c0;
+  color: 224, 177, 203;
+  background-color: 159, 134, 192;
   padding: 10px;
 }
 
